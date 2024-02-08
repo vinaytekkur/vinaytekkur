@@ -8,3 +8,4 @@
   1) Call Center Project (Solving Business problem using SQL and ETL process using Azure Data Factory)
   2) Olympic Analysis (Complete End-to-End project using Azure cloud)
   3) Ecommerce Project (Python based transformations and validation)
+- Check out my another Git hub repo - https://github.com/Vinay-Tekkur
